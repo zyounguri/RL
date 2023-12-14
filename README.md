@@ -15,14 +15,14 @@ This project began as part of the Reinforcement Learning course at the Universit
 - **Task**
 : Shoot randomly generated targets on the opposite wall with a gun.
 
-- **Actions:**
+- **Actions**
 3 actions: [Left, Right, Shot]
 
-- **Reward Design:**
+- **Reward Design**
 -1 if 1 frame has passed
 -5 if shot missed
 +100 if shot hit
 
-- **Episode Termination:**
+- **Episode Termination**
 -if 200 frames have passed
 -if enemy is hit
