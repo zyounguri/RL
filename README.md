@@ -9,24 +9,23 @@ This project began as part of the Reinforcement Learning course at the Universit
 
 
 ## Scenario
-<img src="https://github.com/zyounguri/RL/assets/138076274/31d6cada-7cab-41c8-b268-73437a2c9e50" align="left" width="400"/> 
+<img src="https://github.com/zyounguri/RL/assets/138076274/31d6cada-7cab-41c8-b268-73437a2c9e50" align="left" width="450"/> 
 
-<br>
 
-- **Task**
+###  **Task**
 : Shoot randomly generated targets on the opposite wall with a gun.
 
-- **Actions**
-3 actions: [Left, Right, Shot]
+###  **Actions**
+: 3 actions [Left, Right, Shot]
 
-- **Reward Design**
+###  **Reward Design**
 -1 if 1 frame has passed
 -5 if shot missed
 +100 if shot hit
 
-- **Episode Termination**
--if 200 frames have passed
--if enemy is hit
+###  **Episode Termination**
+(1)-if 200 frames have passed
+<br>(2)-if enemy is hit
 
-<br><br><br><br><br>
+<br><br><br>
 ## Code
