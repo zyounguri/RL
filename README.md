@@ -5,4 +5,5 @@
 
 ![vizdoom-demo](https://github.com/zyounguri/RL/assets/138076274/9e5ad5d6-0c5e-4068-aca2-b114303b36bb)
 
+This project began as part of the Reinforcement Learning course at the University of Seoul.
 
