@@ -7,3 +7,6 @@
 
 This project began as part of the Reinforcement Learning course at the University of Seoul.
 
+## Scenario
+![image](https://github.com/zyounguri/RL/assets/138076274/31d6cada-7cab-41c8-b268-73437a2c9e50)
+
