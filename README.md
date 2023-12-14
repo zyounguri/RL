@@ -27,3 +27,6 @@ This project began as part of the Reinforcement Learning course at the Universit
 - **Episode Termination**
 -if 200 frames have passed
 -if enemy is hit
+
+<br><br><br><br><br>
+## Code
